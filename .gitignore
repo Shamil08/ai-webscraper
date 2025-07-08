@@ -60,4 +60,4 @@ ehthumbs.db
 *.temp
 
 # Chrome driver (optional)
-# chromedriver.exe 
+chromedriver.exe 
